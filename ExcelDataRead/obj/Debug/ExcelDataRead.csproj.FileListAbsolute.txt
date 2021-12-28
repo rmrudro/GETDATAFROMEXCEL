@@ -1,0 +1,15 @@
+C:\Project3\ExcelDataRead\ExcelDataRead\bin\Debug\ExcelDataRead.exe.config
+C:\Project3\ExcelDataRead\ExcelDataRead\bin\Debug\ExcelDataRead.exe
+C:\Project3\ExcelDataRead\ExcelDataRead\bin\Debug\ExcelDataRead.pdb
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\ExcelDataRead.csprojAssemblyReference.cache
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\MainWindow.g.cs
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\App.g.cs
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\ExcelDataRead_MarkupCompile.cache
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\ExcelDataRead_MarkupCompile.lref
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\MainWindow.baml
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\ExcelDataRead.g.resources
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\ExcelDataRead.Properties.Resources.resources
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\ExcelDataRead.csproj.GenerateResource.cache
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\ExcelDataRead.csproj.CoreCompileInputs.cache
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\ExcelDataRead.exe
+C:\Project3\ExcelDataRead\ExcelDataRead\obj\Debug\ExcelDataRead.pdb
